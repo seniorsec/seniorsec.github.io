@@ -34,7 +34,7 @@ As the world becomes more reliant on technology, senior citizens are faced with 
 - **SMS Spam Filter**: Filters out spam text messages.
 - **Call Blocker**: Prevents calls from private numbers and unknown contacts.
 - **Easy Launcher**: A simplified and user-friendly launcher for easy navigation.
-- **WhatsApp**: A secure messaging app.
+- **Signal**: A secure messaging app.
 - **F-Droid**: A repository of open-source Android apps.
 - **APK Installer**: Safely install third-party apps.
 - **Proton Mail**: A secure email service.
